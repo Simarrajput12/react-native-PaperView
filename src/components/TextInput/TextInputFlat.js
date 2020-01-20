@@ -265,8 +265,8 @@ const styles = StyleSheet.create({
 //     right: 0,
 //     bottom: 0,
 //     height: 2,
-//   },
-//   input: {
+//   }, 
+  input: {
     flexGrow: 1,
     paddingHorizontal: 12,
     fontSize: 16,
